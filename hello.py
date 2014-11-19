@@ -1,2 +1,3 @@
 new python file
 system.assert
+system.out...
